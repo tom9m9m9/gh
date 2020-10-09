@@ -15,7 +15,11 @@ Rewrite the words to their id like the following.
 [(document1)]
 [(document2)]
 ]
+
+
 ↓
+
+
 [
 [10,1,2,1,3,4....(document0)]
 [(document1)]
