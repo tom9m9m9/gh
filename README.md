@@ -1,1 +1,6 @@
-# LDA のガラクタ箱
+# LDA
+## About input data
+
+### Document data
+
+### Vocabulary data
