@@ -1,4 +1,4 @@
-# LDA
+# LDA with gibbs sampling
 ## About input data
 
 ### Vocabulary data
