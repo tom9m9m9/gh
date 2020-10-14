@@ -126,7 +126,7 @@ def main ():
             alpha[k] = alpha[k]*(numerator / denominator)
             if(alpha[k]<=0):
                 alpha[k]=0.1
-        print('alpha:{}'.format(alpha))
+
     
                         
                         #β 単語分布用のパラメータ
